@@ -1,4 +1,4 @@
-#Stock Market Analysis Challenge
+# Stock Market Analysis Challenge
 
 ## Overview
 
